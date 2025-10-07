@@ -1,0 +1,6 @@
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/sistemasecotec/repos/react-template/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
